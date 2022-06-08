@@ -1,0 +1,7 @@
+
+{
+    "host": "localhost",
+    "port": 47365,
+    "largo_str": 80,
+    "tamano_chunk": 80
+}
