@@ -1,0 +1,14 @@
+{
+    "ventana_inicio": ["frontend", "ventana_inicio.ui"],
+    "ventana_principal": ["frontend", "ventana_principal.ui"],
+    "ventana_invitacion": ["frontend", "ventana_invitacion.ui"],
+    "ventana_juego": ["frontend", "ventana_juego.ui"],
+    "ventana_final": ["frontend", "ventana_final.ui"],
+    "host": "localhost",
+    "port": 47365,
+    "tamano_chunk": 80,
+    "x_1": 20,
+    "y_1": 20,
+    "x_2": 20,
+    "y_2": 220
+}
